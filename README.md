@@ -7,7 +7,7 @@ This project is a part of the CS5228 Machine Learning course at the National Uni
 
 The project is organized into the following directories and files:
 
-\```
+```bash
 .
 ├── data
 │   ├── auxiliary-data
@@ -22,7 +22,7 @@ The project is organized into the following directories and files:
 ├── README.md
 └── result
     └── submission.csv
-\```
+```
 
 ### Directories and Files
 
