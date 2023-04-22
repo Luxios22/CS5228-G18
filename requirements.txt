@@ -1,0 +1,11 @@
+pandas
+numpy
+scipy
+scikit-learn
+scikit-learn-intelex
+matplotlib
+seaborn
+lightgbm
+xgboost
+optuna
+optuna-dashboard
