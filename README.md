@@ -77,14 +77,23 @@ Please check out [the GitHub repository](https://github.com/optuna/optuna-dashbo
 
 #### Visualization of Our Best Model
 Visualize the optimization history. 
+
 ![](result/xgb_11334.729414886902_optimization_history.png)
+
 Visualize high-dimensional parameter relationships.
+
 ![](result/xgb_11334.729414886902_parallel_coordinate.png)
+
 Visualize individual hyperparameters as slice plot.
+
 ![](result/xgb_11334.729414886902_slice.png)
+
 Visualize parameter importances.
+
 ![](result/xgb_11334.729414886902_param_importances.png)
+
 Visualize empirical distribution function.
+
 ![](result/xgb_11334.729414886902_edf.png)
 
 
